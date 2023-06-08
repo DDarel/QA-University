@@ -1,0 +1,1 @@
+Vladyslav Shevchuk QA2022 Course repository
